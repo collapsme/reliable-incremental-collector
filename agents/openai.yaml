@@ -1,0 +1,7 @@
+interface:
+  display_name: "Reliable Incremental Collector"
+  short_description: "Plan and build durable incremental collectors"
+  default_prompt: "Use $reliable-incremental-collector to design a resumable collector for this source and destination."
+
+policy:
+  allow_implicit_invocation: true
